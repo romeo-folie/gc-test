@@ -467,6 +467,11 @@ a.forks svg {
     display: block;
   }
 
+  div.image-container .status {
+    bottom: 10px;
+    right: 0;
+  }
+
   div.main {
     width: 85%;
   }
